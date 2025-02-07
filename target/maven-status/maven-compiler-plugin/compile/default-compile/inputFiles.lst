@@ -1,0 +1,16 @@
+D:\Formation FullStack DevOps\TestSpring\src\main\java\com\example\productmanager\repository\ProductRepository.java
+D:\Formation FullStack DevOps\TestSpring\src\main\java\com\example\productmanager\controller\ProductController.java
+D:\Formation FullStack DevOps\TestSpring\src\main\java\com\example\productmanager\config\SwaggerConfig.java
+D:\Formation FullStack DevOps\TestSpring\src\main\java\com\example\productmanager\mapper\ProductMapper.java
+D:\Formation FullStack DevOps\TestSpring\src\main\java\com\example\productmanager\dto\CategoryDTO.java
+D:\Formation FullStack DevOps\TestSpring\src\main\java\com\example\productmanager\mapper\CategoryMapper.java
+D:\Formation FullStack DevOps\TestSpring\src\main\java\com\example\productmanager\service\ProductService.java
+D:\Formation FullStack DevOps\TestSpring\src\main\java\com\example\productmanager\config\CorsConfig.java
+D:\Formation FullStack DevOps\TestSpring\src\main\java\com\example\productmanager\service\CategoryService.java
+D:\Formation FullStack DevOps\TestSpring\src\main\java\com\example\productmanager\entity\Category.java
+D:\Formation FullStack DevOps\TestSpring\src\main\java\com\example\productmanager\dto\ProductDTO.java
+D:\Formation FullStack DevOps\TestSpring\src\main\java\com\example\productmanager\entity\Product.java
+D:\Formation FullStack DevOps\TestSpring\src\main\java\com\example\productmanager\controller\CategoryController.java
+D:\Formation FullStack DevOps\TestSpring\src\main\java\com\example\ProductManagerApplication.java
+D:\Formation FullStack DevOps\TestSpring\src\main\java\com\example\productmanager\repository\CategoryRepository.java
+D:\Formation FullStack DevOps\TestSpring\src\main\java\com\example\productmanager\exception\ResourceNotFoundException.java
